@@ -1,0 +1,4 @@
+[01-Oct-2023 15:50:07] ERROR [views.py:55] GetDoctorDetailsAPI Error: invalid literal for int() with base 10: '' at 47
+[01-Oct-2023 16:03:37] ERROR [views.py:67] GetDoctorDetailsAPI Error: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'datetime.time' object at 58
+[01-Oct-2023 16:03:54] ERROR [views.py:67] GetDoctorDetailsAPI Error: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'datetime.time' object at 58
+[01-Oct-2023 16:04:49] ERROR [views.py:67] GetDoctorDetailsAPI Error: module 'datetime' has no attribute 'strftime' at 58
